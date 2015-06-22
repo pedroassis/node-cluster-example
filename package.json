@@ -1,0 +1,22 @@
+{
+  "name": "node-cluster-example",
+  "version": "0.0.1",
+  "description": "NodeJS uptime and push-to-deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedroassis/node-cluster-example.git"
+  },
+  "author": "Pedro Assis <pedro@pedroassis.com.br> (https://github.com/pedroassis)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroassis/node-cluster-example/issues"
+  },
+  "homepage": "https://github.com/pedroassis/node-cluster-example",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
